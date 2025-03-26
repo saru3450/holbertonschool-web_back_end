@@ -1,4 +1,3 @@
-// Classe pour représenter une classe Holberton
 export class HolbertonClass {
   constructor(year, location) {
     this._year = year;
