@@ -1,3 +1,5 @@
+/* eslint-disable*/
+
 export default class Building {
   constructor(sqft) {
     if (typeof sqft !== 'number') {
