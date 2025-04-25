@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-asynchronous coroutine that takes in an integer argument 
+asynchronous coroutine that takes in an integer argument
 """
 
 import asyncio
