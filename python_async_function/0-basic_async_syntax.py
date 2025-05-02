@@ -2,7 +2,7 @@
 """
 asynchronous coroutine that takes in an integer argument
 """
-
+from typing import Generator
 import asyncio
 import random
 
